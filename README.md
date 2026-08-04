@@ -1,0 +1,2 @@
+# fazan-dictionar
+dicționar
