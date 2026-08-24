@@ -5736,9 +5736,7 @@ arondisment
 arpacaș
 arpadian
 arpagic
-arpagon
-arpă
-arpășan
+arpegia
 arpegiat
 arpegiere
 arpegiu
@@ -6581,6 +6579,7 @@ atropină
 atropism
 atrupament
 atu
+atunci
 ață
 ațâța
 ațâțare
@@ -29583,6 +29582,7 @@ etanoic
 etanol
 etanș
 etanșare
+etanșant
 etanșat
 etanșată
 etanșă
@@ -40693,7 +40693,7 @@ improvizată
 improvizator
 improvizatoric
 improvizație
-mprudent
+imprudent
 imprudentă
 imprudență
 impuber
@@ -50974,7 +50974,6 @@ mason
 masonerie
 masonic
 masor
-mass
 mast
 master
 masterat
@@ -60730,6 +60729,7 @@ orhitic
 ori
 oribil
 oribilă
+oricum
 orie
 orient
 orientabil
@@ -73694,6 +73694,7 @@ recuzitier
 recuzitor
 recviem
 reda
+redacta
 redactare
 redactat
 redactată
@@ -74439,6 +74440,8 @@ reîntocmi
 reîntocmire
 reîntocmit
 reîntocmită
+reîntors
+reîntoarsă
 reîntregi
 reîntregire
 reîntregit
@@ -78618,9 +78621,7 @@ rutinez
 rutinier
 rutinism
 rutișor
-rutișorgalben
 ruxandră
-rwandare
 rwandez
 sabat
 sabatic
@@ -92162,11 +92163,9 @@ tuzluc
 țintățelă
 țintelat
 țintelată
-ținterim
 ținteș
 ținteșă
 țintire
-țintirim
 țintit
 țintită
 țintuire
