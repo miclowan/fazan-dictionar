@@ -182,6 +182,7 @@ abreviator
 abreviație
 abreviațiune
 abreviere
+abrict
 abroga
 abrogare
 abrogat
@@ -5282,10 +5283,7 @@ arhonte
 arian
 ariană
 arianism
-ariary
 aribal
-aribală
-aricea
 ariceală
 aricească
 aricește
@@ -10727,6 +10725,7 @@ buzunărel
 buzunărire
 buzunărit
 buzunărită
+bypass
 byronian
 byroniană
 byronism
@@ -36119,9 +36118,6 @@ hâlpav
 hâlpavă
 hâlpov
 hâlpovă
-hâmâire
-hâmâit
-hâmâită
 hândichi
 hânsar
 hânțău
@@ -38103,6 +38099,7 @@ icioglan
 icneală
 icnesc
 icnet
+icni
 icnire
 icnit
 icnită
@@ -42664,6 +42661,7 @@ izvorî
 înceată
 încenușare
 începător
+începe
 începere
 început
 încerca
@@ -45133,6 +45131,7 @@ keramit
 kerdometru
 kernel
 keta
+ketamină
 ketchup
 kete
 ketei
@@ -53317,7 +53316,6 @@ nasoală
 nasol
 nastie
 nastratinesc
-nastratinit
 nasture
 naș
 nașpa
@@ -53380,6 +53378,7 @@ naumahie
 naupatie
 nauplius
 nautic
+nautică
 nautil
 nautiloid
 nautilus
@@ -53530,7 +53529,7 @@ năpăstuită
 năpăstuitor
 năpârcă
 năpârleală
-năpârlesc
+năpârli
 năpârlire
 năpârlit
 năpârlită
@@ -57719,6 +57718,7 @@ orbete
 orbeț
 orbicular
 orbiculară
+orbi
 orbie
 orbilianism
 orbire
@@ -72001,6 +72001,7 @@ retur
 returnare
 returnat
 returnată
+retuș
 retușa
 retușare
 retușat
@@ -72601,6 +72602,7 @@ rocambolesc
 rocarniță
 rocă
 rocărie
+rochie
 rock
 rococo
 rocoșire
@@ -73042,6 +73044,7 @@ rumegare
 rumegat
 rumegată
 rumegător
+rumegătoare
 rumeguș
 rumeliot
 rumen
@@ -73962,13 +73965,8 @@ sâmbrălui
 sâmburar
 sâmbure
 sâmburos
-sâmburuț
 sâmcelat
-sâmiană
-sâmzâiană
-sâmziană
 sân
-sâneț
 sânge
 sângeapă
 sângera
@@ -76691,15 +76689,11 @@ smarald
 smaraldiu
 smarand
 smarid
-smăcinare
 smăltuire
-smălțare
 smălțuială
 smălțuire
 smălțuit
 smălțuitor
-smâcire
-smâncire
 smântână
 smântânire
 smântânit
@@ -81754,6 +81748,7 @@ tăbăcărie
 tăbăcărit
 tăbăcăriță
 tăbăceală
+tăbăci
 tăbăcie
 tăbăcire
 tăbăcit
@@ -81893,6 +81888,7 @@ tămânjită
 tămbălău
 tăndănire
 tăngănire
+tăntălău
 tăpălaga
 tăpălagă
 tăpălăgoasă
